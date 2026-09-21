@@ -43,7 +43,7 @@
 
 ```text
 > whoami
-Sudipta De — CSE student, learning Data Science, building things.
+Sudipta De.
 ```
 
 I'm a **Computer Science & Engineering student** with a growing interest in **Data Science**, and I enjoy learning by building. My projects span **programming, web development, algorithms and computer networking**, from full-stack web apps to algorithm visualizers and networking protocol implementations.
