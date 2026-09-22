@@ -45,22 +45,35 @@ I'm a **Computer Science & Engineering student** with a growing interest in **Da
 
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <td width="72%" valign="middle">
+    <td width="70%" valign="middle">
       <p><b>Languages</b><br/>
-      <img src="https://skillicons.dev/icons?i=c,cpp,java,py,js,ts&theme=dark" alt="C, C++, Java, Python, JavaScript, TypeScript" />
+      <img src="https://skillicons.dev/icons?i=c&theme=dark" alt="C" />&nbsp;&nbsp;
+      <img src="https://skillicons.dev/icons?i=cpp&theme=dark" alt="C++" />&nbsp;&nbsp;
+      <img src="https://skillicons.dev/icons?i=java&theme=dark" alt="Java" />&nbsp;&nbsp;
+      <img src="https://skillicons.dev/icons?i=py&theme=dark" alt="Python" />&nbsp;&nbsp;
+      <img src="https://skillicons.dev/icons?i=js&theme=dark" alt="JavaScript" />&nbsp;&nbsp;
+      <img src="https://skillicons.dev/icons?i=ts&theme=dark" alt="TypeScript" />
       </p>
       <p><b>Web</b><br/>
-      <img src="https://skillicons.dev/icons?i=html,css,react,vite&theme=dark" alt="HTML5, CSS3, React, Vite" />
+      <img src="https://skillicons.dev/icons?i=html&theme=dark" alt="HTML5" />&nbsp;&nbsp;
+      <img src="https://skillicons.dev/icons?i=css&theme=dark" alt="CSS3" />&nbsp;&nbsp;
+      <img src="https://skillicons.dev/icons?i=react&theme=dark" alt="React" />&nbsp;&nbsp;
+      <img src="https://skillicons.dev/icons?i=vite&theme=dark" alt="Vite" />
       </p>
       <p><b>Backend / Data</b><br/>
-      <img src="https://skillicons.dev/icons?i=firebase,mysql,jupyter&theme=dark" alt="Firebase, SQL, Jupyter Notebook" />
+      <img src="https://skillicons.dev/icons?i=firebase&theme=dark" alt="Firebase" />&nbsp;&nbsp;
+      <img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL" />&nbsp;&nbsp;
+      <img src="https://skillicons.dev/icons?i=jupyter&theme=dark" alt="Jupyter Notebook" />
       </p>
       <p><b>Tools / Environment</b><br/>
-      <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" alt="Git, GitHub, VS Code, Linux" />
+      <img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git" />&nbsp;&nbsp;
+      <img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" />&nbsp;&nbsp;
+      <img src="https://skillicons.dev/icons?i=vscode&theme=dark" alt="VS Code" />&nbsp;&nbsp;
+      <img src="https://skillicons.dev/icons?i=linux&theme=dark" alt="Linux" />
       </p>
     </td>
-    <td width="28%" align="center" valign="middle">
-      <img src="./catTyping.gif" width="160" alt="Cat typing animation" />
+    <td width="30%" align="center" valign="middle">
+      <img src="./catTyping.gif" width="140" alt="Cat typing animation" />
     </td>
   </tr>
 </table>
@@ -73,13 +86,12 @@ I'm a **Computer Science & Engineering student** with a growing interest in **Da
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h3>
-          <a href="https://github.com/Sudipta-De/Corrency-Converter">
-            💱 Currency Converter
-          </a>
-      </h3>
+      <h3>💱 Currency Converter</h3>
       <p>A Java-based currency conversion application.</p>
       <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+      <a href="https://github.com/Sudipta-De/Corrency-Converter">
+        <img src="https://img.shields.io/badge/Source%20Code-GitHub-0f0c29?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
+      </a>
     </td>
     <td width="33%" valign="top">
       <h3>📊 Sorting Algorithm Visualizer</h3>
@@ -96,7 +108,9 @@ I'm a **Computer Science & Engineering student** with a growing interest in **Da
       <h3>🌐 Reliable Data Transfer</h3>
       <p>A computer networking project based on Reliable Data Transfer (RDT) concepts.</p>
       <img src="https://img.shields.io/badge/Networking-24243e?style=flat-square" alt="Networking" />
-      <!-- Add repository URL here -->
+      <a href="https://github.com/Sudipta-De/Reliable-Data-Transfer-System-for-Online-Banking">
+        <img src="https://img.shields.io/badge/Source%20Code-GitHub-0f0c29?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
+      </a>
     </td>
   </tr>
 </table>
