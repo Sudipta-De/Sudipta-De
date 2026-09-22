@@ -1,14 +1,18 @@
-<!-- ===================== TOP HERO — SIDE BY SIDE ===================== -->
+<!-- ===================== TOP BANNER ===================== -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:0f0c29,50:302b63,100:24243e&section=header" width="100%" alt="banner" />
+</div>
+
+<!-- ===================== HERO — GIF LEFT / INTRO RIGHT ===================== -->
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <td width="38%" align="center" valign="middle">
+    <td width="35%" align="center" valign="middle">
       <img src="./profile.gif" width="320" alt="Sudipta De animated developer avatar" />
     </td>
-    <td width="62%" align="left" valign="middle">
+    <td width="65%" align="left" valign="middle">
       <h1>👋 Hi, I'm Sudipta De</h1>
       <p>
-        💻 <b>CSE Student</b><br/>
-        📊 <b>Data Science</b><br/>
+        💻 <b>CSE Student</b> &nbsp;|&nbsp; 📊 <b>Data Science</b><br/>
         🌐 <b>Full-Stack Web Developer</b>
       </p>
       <p>
@@ -25,46 +29,41 @@
 <!-- ===================== ABOUT ME ===================== -->
 ## 👨‍💻 About Me
 
-I'm a **Computer Science & Engineering student** with a growing interest in **Data Science**, and I enjoy learning by building. My interests span **full-stack web development, programming, algorithms, and computer networking**.
+I'm a **Computer Science & Engineering student** with a growing interest in **Data Science**, and I enjoy learning by building. My interests include **full-stack web development, programming, algorithms & problem solving, and computer networking**.
 
 - 🔭 Studying **Data Science** alongside my CSE coursework
 - 🌐 Interested in **full-stack web development**
-- 🧠 Enjoy exploring **algorithms** and how things work
-- 📡 Interested in **computer networking**
-- 🛠️ Learning through building practical projects
+- 🧠 Enjoy exploring **algorithms and problem solving**
+- 🛠️ Learning through practical project development
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=0,2,2,5,30" width="100%" alt="divider" />
 
-<!-- ===================== TECH STACK ===================== -->
-## ⚡ Tech Stack
+<!-- ===================== LANGUAGES & TOOLS — ICONS LEFT / CAT RIGHT ===================== -->
+## ⚡ Languages & Tools
 
 *Technologies I work with*
 
-<div align="center">
-
-**Languages**
-<br/>
-<img src="https://skillicons.dev/icons?i=c,cpp,java,py,js,ts&theme=dark" alt="C, C++, Java, Python, JavaScript, TypeScript" />
-
-<br/><br/>
-
-**Web**
-<br/>
-<img src="https://skillicons.dev/icons?i=html,css,react,vite&theme=dark" alt="HTML5, CSS3, React, Vite" />
-
-<br/><br/>
-
-**Database / Backend / Services**
-<br/>
-<img src="https://skillicons.dev/icons?i=firebase,mysql&theme=dark" alt="Firebase, SQL" />
-
-<br/><br/>
-
-**Tools**
-<br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Git, GitHub, VS Code" />
-
-</div>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="72%" valign="middle">
+      <p><b>Languages</b><br/>
+      <img src="https://skillicons.dev/icons?i=c,cpp,java,py,js,ts&theme=dark" alt="C, C++, Java, Python, JavaScript, TypeScript" />
+      </p>
+      <p><b>Web</b><br/>
+      <img src="https://skillicons.dev/icons?i=html,css,react,vite&theme=dark" alt="HTML5, CSS3, React, Vite" />
+      </p>
+      <p><b>Backend / Data</b><br/>
+      <img src="https://skillicons.dev/icons?i=firebase,mysql,jupyter&theme=dark" alt="Firebase, SQL, Jupyter Notebook" />
+      </p>
+      <p><b>Tools / Environment</b><br/>
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" alt="Git, GitHub, VS Code, Linux" />
+      </p>
+    </td>
+    <td width="28%" align="center" valign="middle">
+      <img src="./catTyping.gif" width="160" alt="Cat typing animation" />
+    </td>
+  </tr>
+</table>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=0,2,2,5,30" width="100%" alt="divider" />
 
@@ -74,16 +73,24 @@ I'm a **Computer Science & Engineering student** with a growing interest in **Da
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h3>💱 Currency Converter</h3>
+      <h3>
+          <a href="https://github.com/Sudipta-De/Corrency-Converter">
+            💱 Currency Converter
+          </a>
+      </h3>
       <p>A Java-based currency conversion application.</p>
       <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-      <!-- Add repository URL here -->
     </td>
     <td width="33%" valign="top">
       <h3>📊 Sorting Algorithm Visualizer</h3>
       <p>Visualizes sorting algorithms including Bubble Sort, Selection Sort, Insertion Sort, Merge Sort and Quick Sort.</p>
       <img src="https://img.shields.io/badge/Algorithms-302b63?style=flat-square" alt="Algorithms" />
-      <!-- Add repository URL here -->
+      <a href="https://github.com/Sudipta-De/Sorting-algorithms">
+        <img src="https://img.shields.io/badge/Source%20Code-GitHub-0f0c29?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
+      </a>
+      <a href="https://sorting-alg0.netlify.app/">
+        <img src="https://img.shields.io/badge/Live%20Demo-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Live Demo" />
+      </a>
     </td>
     <td width="33%" valign="top">
       <h3>🌐 Reliable Data Transfer</h3>
@@ -96,7 +103,7 @@ I'm a **Computer Science & Engineering student** with a growing interest in **Da
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=0,2,2,5,30" width="100%" alt="divider" />
 
-<!-- ===================== GITHUB STATS ===================== -->
+<!-- ===================== GITHUB STATISTICS ===================== -->
 ## 📈 GitHub Statistics
 
 <div align="center">
@@ -110,16 +117,25 @@ I'm a **Computer Science & Engineering student** with a growing interest in **Da
 
 </div>
 
+<!-- ===================== GITHUB ACTIVITY ===================== -->
+## 🎯 GitHub Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sudipta-de&theme=tokyo-night&hide_border=true&area=true" alt="GitHub activity graph" />
+</div>
+
+<sub>Shows real recent commit/activity trend for <b>sudipta-de</b>. No values below are invented.</sub>
+
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=0,2,2,5,30" width="100%" alt="divider" />
 
-<!-- ===================== CONTRIBUTION SNAKE ===================== -->
-## 🐍 Contribution Activity
+<!-- ===================== CONTRIBUTION ===================== -->
+## 📊 Contribution
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sudipta-de/sudipta-de/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sudipta-de/sudipta-de/output/github-contribution-grid-snake.svg" />
-    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/sudipta-de/sudipta-de/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sudipta-de/sudipta-de/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sudipta-de/sudipta-de/output/pacman-contribution-graph.svg">
+    <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/sudipta-de/sudipta-de/output/pacman-contribution-graph.svg">
   </picture>
 </div>
 
@@ -132,7 +148,7 @@ I'm a **Computer Science & Engineering student** with a growing interest in **Da
 - 🌐 Full-Stack Web Development
 - 🧮 Algorithms & Problem Solving
 - 📡 Computer Networking
-- 🛠️ Building practical projects
+- 🛠️ Practical project development
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=0,2,2,5,30" width="100%" alt="divider" />
 
@@ -145,9 +161,15 @@ I'm a **Computer Science & Engineering student** with a growing interest in **Da
   <img src="https://img.shields.io/badge/GitHub-sudipta--de-0f0c29?style=for-the-badge&logo=github&logoColor=00F5FF" alt="GitHub" />
 </a>
 
-<!-- Add LinkedIn: <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> -->
-<!-- Add Email: <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a> -->
-<!-- Add Portfolio: <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-302b63?style=for-the-badge" alt="Portfolio" /></a> -->
+<a href="https://www.linkedin.com/in/sudipta-de">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>  
+<a href="mailto:sudiptade506@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a> 
+<a href="https://sudipta-portfolio-new.netlify.app/">
+  <img src="https://img.shields.io/badge/Portfolio-302b63?style=for-the-badge" alt="Portfolio" />
+</a> 
 
 </div>
 
@@ -157,3 +179,5 @@ I'm a **Computer Science & Engineering student** with a growing interest in **Da
 <div align="center">
   <sub><b>Learn • Build • Debug • Repeat</b></sub>
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:24243e,50:302b63,100:0f0c29&section=footer" width="100%" alt="footer" />
