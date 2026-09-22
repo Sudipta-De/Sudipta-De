@@ -43,39 +43,38 @@ I'm a **Computer Science & Engineering student** with a growing interest in **Da
 
 *Technologies I work with*
 
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td width="70%" valign="middle">
-      <p><b>Languages</b><br/>
-      <img src="https://skillicons.dev/icons?i=c&theme=dark" alt="C" />&nbsp;&nbsp;
-      <img src="https://skillicons.dev/icons?i=cpp&theme=dark" alt="C++" />&nbsp;&nbsp;
-      <img src="https://skillicons.dev/icons?i=java&theme=dark" alt="Java" />&nbsp;&nbsp;
-      <img src="https://skillicons.dev/icons?i=py&theme=dark" alt="Python" />&nbsp;&nbsp;
-      <img src="https://skillicons.dev/icons?i=js&theme=dark" alt="JavaScript" />&nbsp;&nbsp;
-      <img src="https://skillicons.dev/icons?i=ts&theme=dark" alt="TypeScript" />
+<table width="100%" border="0" cellspacing="0" cellpadding="0" style="border:0; border-collapse:collapse;">
+  <tr style="border:0;">
+    <!-- LEFT: SKILLS -->
+    <td width="70%" valign="middle" align="left" style="border:0;">
+      <p>
+        <b>Languages</b><br/>
+        <img src="https://skillicons.dev/icons?i=c,cpp,java,py,js,ts&theme=dark"
+             alt="C, C++, Java, Python, JavaScript, TypeScript" />
       </p>
-      <p><b>Web</b><br/>
-      <img src="https://skillicons.dev/icons?i=html&theme=dark" alt="HTML5" />&nbsp;&nbsp;
-      <img src="https://skillicons.dev/icons?i=css&theme=dark" alt="CSS3" />&nbsp;&nbsp;
-      <img src="https://skillicons.dev/icons?i=react&theme=dark" alt="React" />&nbsp;&nbsp;
-      <img src="https://skillicons.dev/icons?i=vite&theme=dark" alt="Vite" />
+      <p>
+        <b>Web</b><br/>
+        <img src="https://skillicons.dev/icons?i=html,css,react,vite&theme=dark"
+             alt="HTML5, CSS3, React, Vite" />
       </p>
-      <p><b>Backend / Data</b><br/>
-      <img src="https://skillicons.dev/icons?i=firebase&theme=dark" alt="Firebase" />&nbsp;&nbsp;
-      <img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL" />&nbsp;&nbsp;
-      <img src="https://skillicons.dev/icons?i=jupyter&theme=dark" alt="Jupyter Notebook" />
+      <p>
+        <b>Backend / Data</b><br/>
+        <img src="https://skillicons.dev/icons?i=firebase,mysql,jupyter&theme=dark"
+             alt="Firebase, MySQL, Jupyter Notebook" />
       </p>
-      <p><b>Tools / Environment</b><br/>
-      <img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git" />&nbsp;&nbsp;
-      <img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" />&nbsp;&nbsp;
-      <img src="https://skillicons.dev/icons?i=vscode&theme=dark" alt="VS Code" />&nbsp;&nbsp;
-      <img src="https://skillicons.dev/icons?i=linux&theme=dark" alt="Linux" />
+      <p>
+        <b>Tools / Environment</b><br/>
+        <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark"
+             alt="Git, GitHub, VS Code, Linux" />
       </p>
     </td>
-    <td width="30%" align="center" valign="middle">
-      <img src="./catTyping.gif" width="140" alt="Cat typing animation" />
+    <!-- RIGHT: CAT GIF -->
+    <td width="30%" valign="middle" align="center" style="border:0;">
+      <img src="./catTyping.gif"
+           width="220"
+           alt="Cat typing animation" />
     </td>
-  </tr>
+    </tr>
 </table>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=0,2,2,5,30" width="100%" alt="divider" />
