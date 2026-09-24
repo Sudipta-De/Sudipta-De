@@ -88,7 +88,7 @@ I'm a **Computer Science & Engineering student** with a growing interest in **Da
       <h3>💱 Currency Converter</h3>
       <p>A Java-based currency conversion application.</p>
       <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-      <a href="https://github.com/Sudipta-De/Corrency-Converter">
+      <a href="https://github.com/Sudipta-De/Currency-Converter">
         <img src="https://img.shields.io/badge/Source%20Code-GitHub-0f0c29?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
       </a>
     </td>
