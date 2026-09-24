@@ -2,6 +2,23 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:0f0c29,50:302b63,100:24243e&section=header" width="100%" alt="banner" />
 </div>
+<!--=========New====-->
+<div align="center">
+  <svg width="100%" height="180" viewBox="0 0 1000 180"
+       xmlns="http://www.w3.org/2000/svg">
+    <rect width="1000" height="180" rx="12" fill="#061A36"/>
+    <text x="500" y="115"
+          text-anchor="middle"
+          font-family="Georgia, 'Times New Roman', serif"
+          font-size="72"
+          font-style="italic"
+          font-weight="bold"
+          fill="#D4AF37">
+      Sudipta De
+    </text>
+
+  </svg>
+</div>
 
 <!-- ===================== HERO — GIF LEFT / INTRO RIGHT ===================== -->
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
