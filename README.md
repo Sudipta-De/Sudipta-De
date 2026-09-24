@@ -85,6 +85,14 @@ I'm a **Computer Science & Engineering student** with a growing interest in **Da
 <table>
   <tr>
     <td width="33%" valign="top">
+      <h3>📚 Course Registration System</h3>
+      <p>A Java-based course registration system for managing course enrollment and registration requests.</p>
+      <img src="https://img.shields.io/badge/Java-24243e?style=flat-square" alt="Java" />
+      <a href="https://github.com/Sudipta-De/Course-Registration-System">
+        <img src="https://img.shields.io/badge/Source%20Code-GitHub-0f0c29?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
+      </a>
+    </td>
+    <td width="33%" valign="top">
       <h3>💱 Currency Converter</h3>
       <p>A Java-based currency conversion application.</p>
       <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
